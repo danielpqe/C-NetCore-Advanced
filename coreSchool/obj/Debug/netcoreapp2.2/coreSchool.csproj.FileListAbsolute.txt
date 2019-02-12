@@ -1,0 +1,11 @@
+/home/dan/develop/cs/coreSchool/bin/Debug/netcoreapp2.2/coreSchool.deps.json
+/home/dan/develop/cs/coreSchool/bin/Debug/netcoreapp2.2/coreSchool.runtimeconfig.json
+/home/dan/develop/cs/coreSchool/bin/Debug/netcoreapp2.2/coreSchool.runtimeconfig.dev.json
+/home/dan/develop/cs/coreSchool/bin/Debug/netcoreapp2.2/coreSchool.dll
+/home/dan/develop/cs/coreSchool/bin/Debug/netcoreapp2.2/coreSchool.pdb
+/home/dan/develop/cs/coreSchool/obj/Debug/netcoreapp2.2/coreSchool.csprojAssemblyReference.cache
+/home/dan/develop/cs/coreSchool/obj/Debug/netcoreapp2.2/coreSchool.csproj.CoreCompileInputs.cache
+/home/dan/develop/cs/coreSchool/obj/Debug/netcoreapp2.2/coreSchool.AssemblyInfoInputs.cache
+/home/dan/develop/cs/coreSchool/obj/Debug/netcoreapp2.2/coreSchool.AssemblyInfo.cs
+/home/dan/develop/cs/coreSchool/obj/Debug/netcoreapp2.2/coreSchool.dll
+/home/dan/develop/cs/coreSchool/obj/Debug/netcoreapp2.2/coreSchool.pdb

@@ -1,0 +1,11 @@
+/home/dan/develop/cs/etapa1/bin/Debug/netcoreapp2.2/etapa1.deps.json
+/home/dan/develop/cs/etapa1/bin/Debug/netcoreapp2.2/etapa1.runtimeconfig.json
+/home/dan/develop/cs/etapa1/bin/Debug/netcoreapp2.2/etapa1.runtimeconfig.dev.json
+/home/dan/develop/cs/etapa1/bin/Debug/netcoreapp2.2/etapa1.dll
+/home/dan/develop/cs/etapa1/bin/Debug/netcoreapp2.2/etapa1.pdb
+/home/dan/develop/cs/etapa1/obj/Debug/netcoreapp2.2/etapa1.csprojAssemblyReference.cache
+/home/dan/develop/cs/etapa1/obj/Debug/netcoreapp2.2/etapa1.csproj.CoreCompileInputs.cache
+/home/dan/develop/cs/etapa1/obj/Debug/netcoreapp2.2/etapa1.AssemblyInfoInputs.cache
+/home/dan/develop/cs/etapa1/obj/Debug/netcoreapp2.2/etapa1.AssemblyInfo.cs
+/home/dan/develop/cs/etapa1/obj/Debug/netcoreapp2.2/etapa1.dll
+/home/dan/develop/cs/etapa1/obj/Debug/netcoreapp2.2/etapa1.pdb
